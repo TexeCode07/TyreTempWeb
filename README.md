@@ -1,2 +1,5 @@
 # TyreTempWeb
-Build TyreTemp record and calculate tool on esp32softAP webserver for Bernd Ordemann 
+Build TyreTemp calculate for Bernd Ordemann
+Used esp32 SoftAP weberver 
+MLX90614 non-contact infrared thermometer by Melexis  
+Periodic reading and calculation and logging.
