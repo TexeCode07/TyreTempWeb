@@ -3,4 +3,4 @@
 Used esp32 SoftAP weberver 
 MLX90614 non-contact infrared thermometer by Melexis  
 Periodic reading on graph and calculation and logging.
-![Project Screenshot](images/)
+![Project Screenshot](images/mainw.png)
